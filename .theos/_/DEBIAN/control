@@ -1,0 +1,9 @@
+Package: com.imokhles.ingenhancer
+Name: INGEnhancer
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: instagram enhancer tweak
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
+Version: 0.0.1-20
+Installed-Size: 848
